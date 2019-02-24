@@ -5,7 +5,7 @@ This project website is NOT affiliated with, funded, or in any way associated wi
 
 The purpose of this project website is to test out our web development skills and to show case as a portfolio in our future endeavours. 
 
-`\`\
+\
 If you have any enquiries, email us:
 
 [Fatima](mailto:fzahrakhan89@gmail.com)
